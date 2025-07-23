@@ -14,7 +14,7 @@ Currently building a solid foundation in **data structures**, **algorithms**, an
 
 ---
 
-# Current Learning Path
+## Current Learning Path
 
 - **Backend Development:** Focusing on C#, and gradually exploring core technologies like databases, LINQ, EF, MVC, and APIs.
 - **Data Structures & Algorithms**: Practicing regularly to improve problem-solving skills
