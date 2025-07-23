@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hello! I'm Kenzy Ragab 👋
 
 ## About Me
